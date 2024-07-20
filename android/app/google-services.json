@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "548518483337",
+    "project_id": "cc-wallpaper-78643",
+    "storage_bucket": "cc-wallpaper-78643.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548518483337:android:8098952f44241045e73d58",
+        "android_client_info": {
+          "package_name": "com.example.wallpapers_hd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548518483337-g026g8bno2btl7hmju88qrrjg6su0lom.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wallpapers_hd",
+            "certificate_hash": "8201b970eeba2967faf35c4eecee88b2f25a10c4"
+          }
+        },
+        {
+          "client_id": "548518483337-g3egg5br997ldmb9f2p1km9pedpvapnb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wallpapers_hd",
+            "certificate_hash": "733e1b39979ad4b54b15e8e8fcc0e29674b9e9e4"
+          }
+        },
+        {
+          "client_id": "548518483337-mu7hdf62us14i1ph9cuammmsnq33db1l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wallpapers_hd",
+            "certificate_hash": "5951a90d0568bae452d73dc75feccad2e5517f18"
+          }
+        },
+        {
+          "client_id": "548518483337-3m4son6m366n7o165hrlmssi8hc40n93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbA_VdDLHZMeudzhHqSH7Xp5wtV6yqCko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548518483337-3m4son6m366n7o165hrlmssi8hc40n93.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "548518483337-1huo4opdl8pu5ct2n7gv2vltfsp0asvo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vocsy.wallpapersHd"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
